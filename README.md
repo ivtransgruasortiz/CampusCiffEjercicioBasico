@@ -7,3 +7,8 @@ git push origin master
 vim privado.txt
 mkdir privada
 
+# Tabla
+| nombre | GitHub |
+| ------ | ------ |
+| Oscar Pulido | oscarpulido55|
+| Oscar | Oscar91DS |
